@@ -3,7 +3,6 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://romanbarannickov.github.io/vk-edu-20-2024-demo",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
